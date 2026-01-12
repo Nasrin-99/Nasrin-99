@@ -13,7 +13,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nasrin-99&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNasrin-99&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=HITS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Nasrin-99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/nasrin-sultana-khatun)
 [![Email](https://img.shields.io/badge/Email-khatunnasrin909%40gmail.com-red?logo=gmail)](mailto:khatunnasrin909@gmail.com)
 
