@@ -59,6 +59,9 @@
 
 class About extends Me { 
   const me = {  
-   " MCA graduate with strong foundations in software engineering data  structures, and full-stack web development. Hands-on experience in building scalable web and desktop applications using JavaScript, Node.js, Python, and REST APIs. Proficient in problem-solving, OOP concepts, and version control. Seeking a Software Engineer I role to contribute to high-impact engineering teams."
+   " MCA graduate with strong foundations in software engineering data  structures, and full-stack web development. 
+    Hands-on experience in building scalable web and desktop applications using JavaScript, Node.js, Python, and REST 
+    APIs. Proficient in problem-solving, OOP concepts, and version control. Seeking a Software Engineer I role to 
+    contribute to high-impact engineering teams."
   };
 }
