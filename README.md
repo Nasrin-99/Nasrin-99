@@ -1,11 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Nasrin-99/Nasrin-99/blob/main/hello-coders-optimized.gif?raw=true"
+<img src="https://github.com/Nasrin-99/Nasrin-99/blob/main/record02.gif?raw=true"
      href="https://github.com/Nasrin-99"
      alt="Hello Coders"
      width="60%"/> <br>
 
-<img src="https://github.com/Nasrin-99/Nasrin-99/blob/main/hello-coders-optimized.gif ?raw=true"
+<img src="https://github.com/Nasrin-99/Nasrin-99/blob/main/record02.gif?raw=true"
      href="https://github.com/Nasrin-99"
      alt="Workspace"
      width="40%"/><br> 
