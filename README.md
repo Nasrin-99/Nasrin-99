@@ -1,4 +1,7 @@
+![Moving Text](./moving-text.svg)
+
 <div align="center" width="50">
+
 
 <img src="https://github.com/Nasrin-99/Nasrin-99/blob/main/record02.gif?raw=true"
      href="https://github.com/Nasrin-99"
@@ -54,6 +57,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
+![Moving Text](./moving-text.svg)
+
+
 ```dart
 // tools_I_use organized
 
@@ -65,3 +71,4 @@ class About extends Me {
     contribute to high-impact engineering teams."
   };
 }
+
