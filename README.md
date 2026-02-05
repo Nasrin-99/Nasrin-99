@@ -67,18 +67,13 @@
 <hr>
 
 # 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Nasrin-99&show_icons=true&theme=tokyonight"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Nasrin-99&theme=tokyonight"
-  width="100%"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrin-99&layout=compact&theme=tokyonight"
-  width="100%"
-/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nasrin-99&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com/?user=Nasrin-99&theme=tokyonight" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrin-99&layout=compact&theme=tokyonight" width="100%" />
+
 <hr>
-<hr></hr>
 
 ![Typing Intro](./moving-text1.svg)
